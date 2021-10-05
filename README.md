@@ -11,11 +11,10 @@
 <a name="gmail" href="mailto:guseinovmus@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
    ## CV 
-      ##  EN: 
+   <span>EN:</span>
    <a name="cv" href="https://www.canva.com/design/DAEr7-YQqng/54AjsIz8ExKS1s1oFVjjxw/view?utm_content=DAEr7-YQqng&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
-    <p>RU:</p>
+    <span>RU:</span>
    <a name="cv" href="https://www.canva.com/design/DAEr7yjSBCY/SCJNyYT-tqbmiBj8eeEInA/view?utm_content=DAEr7yjSBCY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
-   <h3><a name="hh" href="">CV on hh.ru</a></h3>
 </div>
 
 ## 🛠 My Tech Stack:
