@@ -3,8 +3,6 @@
 <p>Nice to meet you!<br>
    My name is Musa and I'm a Full Stack JS Developer<br>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaGus&layout=compact)
   
 ## There are some links to contact me:
   
@@ -12,9 +10,11 @@
 <a name="watsapp" href="https://wa.me/89112240074"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="gmail" href="mailto:guseinovmus@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
-   ## CV (RU / EN) 
-
-   <a name="cv" href="https://www.canva.com/design/DAErUejDvDo/QMtUwTPA8SUYdqC95YzG_Q/view?utm_content=DAErUejDvDo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
+   ## CV 
+    <p>EN:</p>
+   <a name="cv" href="https://www.canva.com/design/DAEr7-YQqng/54AjsIz8ExKS1s1oFVjjxw/view?utm_content=DAEr7-YQqng&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
+    <p>RU:</p>
+   <a name="cv" href="https://www.canva.com/design/DAEr7yjSBCY/SCJNyYT-tqbmiBj8eeEInA/view?utm_content=DAEr7yjSBCY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
    <h3><a name="hh" href="">CV on hh.ru</a></h3>
 </div>
 
@@ -45,14 +45,14 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;<span>Basic knowleges</span>
+<span>Basic knowleges</span>
 
 ## My development plans:
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-<img src="https://img.shields.io/badge/QA-282C34?logo=shopify&logoColor=61DAFB" alt="QA logo" title="QA" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;
 
 ## Languages:
 
