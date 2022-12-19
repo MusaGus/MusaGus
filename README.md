@@ -11,10 +11,7 @@
 <a name="gmail" href="mailto:guseinovmus@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
    ## CV 
-   <span>EN:</span>
    <a name="cv" href="https://www.canva.com/design/DAEr7-YQqng/54AjsIz8ExKS1s1oFVjjxw/view?utm_content=DAEr7-YQqng&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
-    <span>RU:</span>
-   <a name="cv" href="https://www.canva.com/design/DAEr7yjSBCY/SCJNyYT-tqbmiBj8eeEInA/view?utm_content=DAEr7yjSBCY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
 </div>
 
 ## 🛠 My Tech Stack:
@@ -23,12 +20,14 @@
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 <h3>FrontEnd:</h3>
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Redux(Thunk/Saga)-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
@@ -49,8 +48,7 @@
 ## My development plans:
 
 <a name="learning-now"></a>
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;
 
 ## Languages:
