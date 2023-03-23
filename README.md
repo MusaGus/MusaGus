@@ -10,9 +10,7 @@
 <a name="watsapp" href="https://wa.me/89112240074"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="gmail" href="mailto:guseinovmus@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
-   ## CV 
-   <a name="cv" href="https://www.canva.com/design/DAEr7-YQqng/54AjsIz8ExKS1s1oFVjjxw/view?utm_content=DAEr7-YQqng&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/></a><br>
-</div>
+   
 
 ## 🛠 My Tech Stack:
 
